@@ -1,5 +1,5 @@
-nombre = "Soy Elier"
-apellido = "Sulbara"
+nombre = "Soy Elier Antonio"
+apellido = "Sulbara Rodriguez"
 saludo = "Hola " + nombre + " " + apellido + "¿Como estas?"
 
 print(saludo)
